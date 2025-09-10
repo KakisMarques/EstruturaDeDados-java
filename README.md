@@ -1,2 +1,2 @@
-# EstruturaDeDados-java
-Feito por: Beatriz Perez, Karine Marques, Ryan Oliveira
+# AlgoritmosEstruturaDeDados-java
+Exercícios da disciplina
