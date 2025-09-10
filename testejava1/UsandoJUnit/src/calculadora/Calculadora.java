@@ -29,3 +29,5 @@ public class Calculadora {
 	}
 
 }
+
+#Feito por: Beatriz Perez, Karine Marques e Ryan Oliveira
